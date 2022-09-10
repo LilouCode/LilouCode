@@ -1,7 +1,7 @@
 # Hi there 👋
 🦄 My name is Lisa. I am Senior UI/UX designer and a React Front-end Developer from Paris, France ⚛️ Check my [portfolio](https://www.lisafrontdev.com/)
 
-## 🔭 My selection:
+## 🔭 My code selection:
 You can take a look at the different repositories that I've recently made.
 
 ### Billed
@@ -11,6 +11,13 @@ Implementation of tests on the “expense report” functionality (unit test & i
 Deliverables:
 - [Code](https://github.com/LilouCode/LisaLox_9_29032022)
 - [Documentation](https://quiver-unicorn-0a5.notion.site/Billed-a133da246e314764b094652af29c71db)
+
+### Argent Bank
+#### 💳 Use an API for a bank user account with React
+Create the complete and responsive web application with React using Redux Toolkit ⚛️, and following the backend API
+Deliverables:
+- [Code](https://github.com/LilouCode/lisalox_13_13062022)
+- [Swagger](https://www.notion.so/Argent-Bank-bbff5d851017403cad788f0b47fe2652)
 
 ### Les Petits Plats
 #### 🔎 Develop a search algorithm in JavaScript vanilla
