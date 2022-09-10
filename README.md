@@ -51,8 +51,9 @@ Deliverables:
 -Produce technical documentation for an application
 
 I aslo create a feature to give the possibility to the dev to switch the API.
+
 Deliverables:
--[Code](https://github.com/LilouCode/LisaLox_12_19052022)
+- [Code](https://github.com/LilouCode/LisaLox_12_19052022)
 
 
 ### Les Petits Plats
