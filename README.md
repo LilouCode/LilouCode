@@ -19,6 +19,18 @@ Deliverables:
 - [Code](https://github.com/LilouCode/LisaLox_9_29032022)
 - [Documentation](https://quiver-unicorn-0a5.notion.site/Billed-a133da246e314764b094652af29c71db)
 
+### HRnet by Wealth Health
+#### 🚀 Switch a jQuery library to React
+- Analyze the performance of a web application,
+- Deploy a front-end application",
+- Create and publish React component library,
+- Redesign of an application to reduce technical debt
+
+Deliverables:
+- [Code](https://github.com/LilouCode/lisalox_14_18072022)
+- [React library](https://www.npmjs.com/package/liloucode-just-a-modal) published on NPM
+- [Performance tests](https://quiver-unicorn-0a5.notion.site/HRnet-by-Wealth-Health-9754cc91cb9149e2aace6f346f1e8c3b)
+
 ### Argent Bank
 #### 💳 Use an API for a bank user account with React
 Step 1- Create the complete and responsive web application with React using Redux Toolkit ⚛️ [following the backend API](https://github.com/OpenClassrooms-Student-Center/Project-10-Bank-API)
