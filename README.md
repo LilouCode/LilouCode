@@ -26,6 +26,8 @@ Deliverables:
 - Create and publish React component library,
 - Redesign of an application to reduce technical debt
 
+For this project I used Material-UI, React-Hook-Form and my own modal library.
+
 Deliverables:
 - [Code](https://github.com/LilouCode/lisalox_14_18072022)
 - [React library](https://www.npmjs.com/package/liloucode-just-a-modal) published on NPM
@@ -40,6 +42,18 @@ Step 2- Describe the proposed APIs for transactions and creat a Swagger File
 Deliverables:
 - [Code](https://github.com/LilouCode/lisalox_13_13062022)
 - [Swagger](https://www.notion.so/Argent-Bank-bbff5d851017403cad788f0b47fe2652)
+
+### SportSee
+#### ⛹️ Build an analytics dashboard with React
+-Ensuring the data quality of an application,
+-Interact with a web service,
+-Develop advanced graphical elements using JavaScript libraries (using Rechart.org),
+-Produce technical documentation for an application
+
+I aslo create a feature to give the possibility to the dev to switch the API.
+Deliverables:
+-[Code](https://github.com/LilouCode/LisaLox_12_19052022)
+
 
 ### Les Petits Plats
 #### 🔎 Develop a search algorithm in JavaScript vanilla
