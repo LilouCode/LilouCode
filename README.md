@@ -13,7 +13,7 @@ Deliverables:
 - [Documentation](https://quiver-unicorn-0a5.notion.site/Billed-a133da246e314764b094652af29c71db)
 
 ### Les Petits Plats
-####🔎 Develop a search algorithm in JavaScript vanilla
+#### 🔎 Develop a search algorithm in JavaScript vanilla
 Implement search functionality for a cooking website.
 
 Deliverables:
