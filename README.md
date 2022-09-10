@@ -21,7 +21,9 @@ Deliverables:
 
 ### Argent Bank
 #### 💳 Use an API for a bank user account with React
-Create the complete and responsive web application with React using Redux Toolkit ⚛️, and following the backend API
+Step 1- Create the complete and responsive web application with React using Redux Toolkit ⚛️ [following the backend API](https://github.com/OpenClassrooms-Student-Center/Project-10-Bank-API)
+Step 2- Describe the proposed APIs for transactions and creat a Swagger File
+
 Deliverables:
 - [Code](https://github.com/LilouCode/lisalox_13_13062022)
 - [Swagger](https://www.notion.so/Argent-Bank-bbff5d851017403cad788f0b47fe2652)
