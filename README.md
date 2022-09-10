@@ -5,11 +5,21 @@
 You can take a look at the different repositories that I've recently made.
 
 ### Billed
-#### Debug and test an HR SaaS 
+#### 🐞 Debug and test an HR SaaS 
 Implementation of tests on the “expense report” functionality (unit test & integration test) using Jest 🃏
+
 Deliverables:
 - [Code](https://github.com/LilouCode/LisaLox_9_29032022)
-- [Documentation](https://www.notion.so/Billed-a133da246e314764b094652af29c71db)
+- [Documentation](https://quiver-unicorn-0a5.notion.site/Billed-a133da246e314764b094652af29c71db)
+
+### Les Petits Plats
+####🔎 Develop a search algorithm in JavaScript vanilla
+Implement search functionality for a cooking website.
+
+Deliverables:
+- [Code version 1](https://github.com/LilouCode/LisaLox_7_28022022/tree/algorithm1) : JavaScript array methods (filter)
+- [Code version 2](https://github.com/LilouCode/LisaLox_7_28022022/tree/algorithm2) : JavaScript native loops
+- [Documentation](https://quiver-unicorn-0a5.notion.site/Les-Petits-Plats-1e1b4e7bf9e2435082a76bd89b73a22c) : feature investigation worksheet
 
 ## 📫How to reach me:
  - [LinkedIn](https://www.linkedin.com/in/lisa-lox-frontdev/)
