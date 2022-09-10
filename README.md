@@ -1,6 +1,13 @@
 # Hi there 👋
 🦄 My name is Lisa. I am Senior UI/UX designer and a React Front-end Developer from Paris, France ⚛️ Check my [portfolio](https://www.lisafrontdev.com/)
 
+## 🧢 Different hats I wear:
+- Front End Developer
+- UI/UX designer
+- Software Engineer
+- Content creator
+- Co-founder
+ 
 ## 🔭 My code selection:
 You can take a look at the different repositories that I've recently made.
 
@@ -27,18 +34,12 @@ Deliverables:
 - [Code version 1](https://github.com/LilouCode/LisaLox_7_28022022/tree/algorithm1) : JavaScript array methods (filter)
 - [Code version 2](https://github.com/LilouCode/LisaLox_7_28022022/tree/algorithm2) : JavaScript native loops
 - [Documentation](https://quiver-unicorn-0a5.notion.site/Les-Petits-Plats-1e1b4e7bf9e2435082a76bd89b73a22c) : feature investigation worksheet
-
-## 📫How to reach me:
+ 
+ 
+ ## 📫How to reach me:
  - [LinkedIn](https://www.linkedin.com/in/lisa-lox-frontdev/)
  - [Twitter](https://twitter.com/LilouCode)
  - [My portfolio](https://www.lisafrontdev.com/)
- 
- ## 🧢 Different hats I wear:
- - Front End Developer
- - UI/UX designer
- - Software Engineer
- - Content creator
- - Co-founder
 <!--
 **LilouCode/LilouCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
