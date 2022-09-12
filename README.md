@@ -1,9 +1,13 @@
-# Hi there 👋
-🦄 My name is Lisa. I am Senior UI/UX designer and a React Front-end Developer from Paris, France 
+# Hi there, I'm Lisa👋
 
-⚛️ Visit my [portfolio](https://www.lisafrontdev.com/)
+🦄 I'm Senior UI/UX designer and a Front-end Developer 
+📍 From Paris, France
+🎓 Bachelor's degree in Computer Science
+⚛️ Visit my [portfolio](https://www.lisafrontdev.com/) or check my [stack](https://stackshare.io/liloucode/my-stack) 🛠️
 
-🛠️ Check my [stack](https://stackshare.io/liloucode/my-stack)
+[![LilouCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilouCode&layout=compact&hide=stars,prs,issues,contribs&show__icons=true&theme=cobalt)](https://github.com/LilouCode/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilouCode&theme=cobalt&layout=compact)](https://github.com/LilouCode/github-readme-stats)
 
 ## 🧢 Different hats I wear:
 - Front End Developer
