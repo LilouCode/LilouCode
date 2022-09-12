@@ -1,8 +1,11 @@
 # Hi there, I'm Lisa👋
 
 🦄 I'm Senior UI/UX designer and a Front-end Developer 
+
 📍 From Paris, France
+
 🎓 Bachelor's degree in Computer Science
+
 ⚛️ Visit my [portfolio](https://www.lisafrontdev.com/) or check my [stack](https://stackshare.io/liloucode/my-stack) 🛠️
 
 [![LilouCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilouCode&layout=compact&hide=stars,prs,issues,contribs&show__icons=true&theme=cobalt)](https://github.com/LilouCode/github-readme-stats)
