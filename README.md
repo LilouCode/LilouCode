@@ -1,6 +1,8 @@
 # Hi there 👋
 🦄 My name is Lisa. I am Senior UI/UX designer and a React Front-end Developer from Paris, France 
+
 ⚛️ Visit my [portfolio](https://www.lisafrontdev.com/)
+
 🛠️ Check my [stack](https://stackshare.io/liloucode/my-stack)
 
 ## 🧢 Different hats I wear:
