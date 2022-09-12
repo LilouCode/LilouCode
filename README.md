@@ -1,6 +1,6 @@
 # Hi there, I'm Lisa👋
 
-🦄 I'm Senior UI/UX designer and a Front-end Developer 
+🦄 I'm a senior UI/UX designer and a Front-end Developer 
 
 📍 From Paris, France
 
