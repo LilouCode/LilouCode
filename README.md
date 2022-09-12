@@ -9,7 +9,7 @@
 - Co-founder
  
 ## 🔭 My code selection:
-You can take a look at the different repositories that I've recently made.
+You can take a look at the different repositories that I've recently made but  here I made a selection of some of my projects that show different aspects of my skills
 
 ### Billed
 #### 🐞 Debug and test an HR SaaS 
