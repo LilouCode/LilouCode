@@ -23,7 +23,6 @@
 ## 🌱 I’m currently learning
 - TypeScript
 - NodeJS
-- NextJs
 
 ## 🔭 My code selection:
 You can take a look at the different repositories that I've recently made but here is a selection of some of my projects that show different aspects of my skills with some extra documents 📄⚗️
