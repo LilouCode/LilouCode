@@ -5,13 +5,14 @@
  <h3>Hi there, I'm <a href="https://www.lisafrontdev.com"  target="_blank" rel="noreferrer">Lisa</a> 👋</h3>
 <h2> I'm a Front-end Developer 💻 and Product Designer 🎨 !  </h2>
 </div>
-I enjoy the process of creating innovative websites and the challenge of discovering hidden gems and spending time to give solutions to erease the technical debt. Learning about how people conceal things and where they are most likely to search is intriguing and I love to meet new people.
+I enjoy the process of creating innovative websites and the challenge of discovering hidden gems and spending time to give solutions to erase the technical debt. Learning about how people perceive things and where they are most likely to search is very interesting. Love to meet new people !
+<h3 align="center"> ⚛️ Visit my <a href="https://www.lisafrontdev.com/" target="_blank" rel="noreferrer">portfolio</a> </h3>
 
 ## 🤝 Connect with me:
  - [LinkedIn](https://www.linkedin.com/in/lisa-lox-frontdev/)
  - [Twitter](https://twitter.com/LilouCode)
-
-#### ⚛️ Visit my [portfolio](https://www.lisafrontdev.com/)
+ 
+ 🗨️If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 💼 Technical Skills
 
@@ -35,12 +36,15 @@ Check all my [stack here](https://stackshare.io/liloucode/my-stack) 🛠️
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilouCode&theme=cobalt&layout=compact)](https://github.com/LilouCode/github-readme-stats)
 
 ## 🧢 Different hats I wear:
-- Front End Developer
+- Front End Developer 
 - UI/UX designer
 - UI developer
 - Software Engineer
-- Content creator
+- Product Designer
+- Brand Designer
 - Co-founder
+- Volunteer
+
 ## 🔭 My code selection:
 You can take a look at the different repositories that I've recently made but here is a selection of some of my projects that show different aspects of my skills with some extra documents 📄⚗️
 
