@@ -1,5 +1,7 @@
 <p align="center"> 
-<img width=”200" height=”200" href="https://www.lisafrontdev.com"  target="_blank" rel="noreferrer" src="https://user-images.githubusercontent.com/91776752/234286393-eaa46f4d-6a7c-492a-bb6a-8954ac2ff545.gif" alt="my banner">
+ <a  href="https://www.lisafrontdev.com"  target="_blank" rel="noreferrer" alt="Lisa Frontdev Portfolio">
+  <img width=”200" height=”200" src="https://user-images.githubusercontent.com/91776752/234286393-eaa46f4d-6a7c-492a-bb6a-8954ac2ff545.gif" alt="my banner">
+ </a>
 </p>
 <div align="center">
  <h3>Hi there, I'm <a href="https://www.lisafrontdev.com"  target="_blank" rel="noreferrer">Lisa</a> 👋</h3>
@@ -9,8 +11,13 @@ I enjoy the process of creating innovative websites and the challenge of discove
 <h3 align="center"> ⚛️ Visit my <a href="https://www.lisafrontdev.com/" target="_blank" rel="noreferrer">portfolio</a> </h3>
 
 ## 🤝 Connect with me:
- - [LinkedIn](https://www.linkedin.com/in/lisa-lox-frontdev/)
- - [Twitter](https://twitter.com/LilouCode)
+ <a  href="https://www.linkedin.com/in/lisa-lox-frontdev/"  target="_blank" rel="noreferrer">
+ <img width="40px" height="40px"  src="https://user-images.githubusercontent.com/91776752/234329409-8230bf97-6718-4ec7-870c-33cfcdd9f3d4.png" alt="Lisa | LinkedIn">
+</a> <a href="https://twitter.com/LilouCode"  target="_blank" rel="noreferrer">
+<img width="40px" height="40px"  src="https://user-images.githubusercontent.com/91776752/234330311-90633964-a14b-407e-8fb5-2ece064494a0.png" alt="Lisa | Twitter">
+</a>
+ 
+ 
  
  🗨️If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -22,7 +29,7 @@ I enjoy the process of creating innovative websites and the challenge of discove
 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
  
 Check all my [stack here](https://stackshare.io/liloucode/my-stack) 🛠️
 
