@@ -1,13 +1,31 @@
-# Hi there, I'm Lisa👋
+<div align="center">
+ <p>Hi there, I'm Lisa 👋</p>
+<h2> I'm a Front-end Developer 💻 and Product Designer 🎨 !  </h2>
+</div>
+I enjoy the process of creating innovative websites and the challenge of discovering hidden gems and spending time to give solutions to erease the technical debt. Learning about how people conceal things and where they are most likely to search is intriguing and I love to meet new people.
 
-🦄 I'm a senior UI/UX designer and a Front-end Developer 
+## 🤝 Connect with me:
+ - [LinkedIn](https://www.linkedin.com/in/lisa-lox-frontdev/)
+ - [Twitter](https://twitter.com/LilouCode)
+⚛️ Visit my [portfolio](https://www.lisafrontdev.com/)
 
-📍 From Paris, France
+## 💼 Technical Skills
 
-🎓 Bachelor's degree in Computer Science
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-⚛️ Visit my [portfolio](https://www.lisafrontdev.com/) or check my [stack](https://stackshare.io/liloucode/my-stack) 🛠️
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+ 
+Check all my [stack here](https://stackshare.io/liloucode/my-stack) 🛠️
+
+## 🌱 I’m currently learning
+- GraphQL
+
+## 🤠 I'm currently working on
+- ArtHome app
+
+## 📈 GitHub Stats
 [![LilouCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilouCode&layout=compact&hide=stars,prs,issues,contribs&show__icons=true&theme=cobalt)](https://github.com/LilouCode/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilouCode&theme=cobalt&layout=compact)](https://github.com/LilouCode/github-readme-stats)
@@ -19,12 +37,6 @@
 - Software Engineer
 - Content creator
 - Co-founder
-
-## 🌱 I’m currently learning
-- TypeScript
-- NodeJS
-- GraphQL
-
 ## 🔭 My code selection:
 You can take a look at the different repositories that I've recently made but here is a selection of some of my projects that show different aspects of my skills with some extra documents 📄⚗️
 
