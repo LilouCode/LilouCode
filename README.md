@@ -2,7 +2,7 @@
 <img width=”200" height=”200" href="https://www.lisafrontdev.com"  target="_blank" rel="noreferrer" src="https://user-images.githubusercontent.com/91776752/234286393-eaa46f4d-6a7c-492a-bb6a-8954ac2ff545.gif" alt="my banner">
 </p>
 <div align="center">
- <p>Hi there, I'm Lisa 👋</p>
+ <h3>Hi there, I'm <a href="https://www.lisafrontdev.com"  target="_blank" rel="noreferrer">Lisa</a> 👋</h3>
 <h2> I'm a Front-end Developer 💻 and Product Designer 🎨 !  </h2>
 </div>
 I enjoy the process of creating innovative websites and the challenge of discovering hidden gems and spending time to give solutions to erease the technical debt. Learning about how people conceal things and where they are most likely to search is intriguing and I love to meet new people.
