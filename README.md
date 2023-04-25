@@ -1,5 +1,5 @@
 <p align="center"> 
-<img width=”200" height=”200" href="https://www.lisafrontdev.com"  target="_blank" rel="noreferrer" src="https://user-images.githubusercontent.com/91776752/234270624-aac1e64e-997c-4a64-acb9-7aec6d2d9e54.png" alt="my banner">
+<img width=”200" height=”200" href="https://www.lisafrontdev.com"  target="_blank" rel="noreferrer" src="https://user-images.githubusercontent.com/91776752/234286393-eaa46f4d-6a7c-492a-bb6a-8954ac2ff545.gif" alt="my banner">
 </p>
 <div align="center">
  <p>Hi there, I'm Lisa 👋</p>
