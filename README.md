@@ -10,7 +10,8 @@ I enjoy the process of creating innovative websites and the challenge of discove
 ## 🤝 Connect with me:
  - [LinkedIn](https://www.linkedin.com/in/lisa-lox-frontdev/)
  - [Twitter](https://twitter.com/LilouCode)
-⚛️ Visit my [portfolio](https://www.lisafrontdev.com/)
+
+#### ⚛️ Visit my [portfolio](https://www.lisafrontdev.com/)
 
 ## 💼 Technical Skills
 
