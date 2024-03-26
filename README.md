@@ -44,9 +44,9 @@ Check all my [stack here](https://stackshare.io/liloucode/my-stack) 🛠️
 - ArtHome app
 
 ## 📈 GitHub Stats
-[![LilouCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilouCode&layout=compact&hide=stars,prs,issues,contribs&show__icons=true&theme=cobalt)]
+[LilouCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilouCode&layout=compact&hide=stars,prs,issues,contribs&show__icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilouCode&theme=cobalt&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilouCode&theme=cobalt&layout=compact)
 
 ## 🧢 Different hats I wear:
 - Front End Developer 
