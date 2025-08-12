@@ -8,7 +8,7 @@
 <h2> I'm a Front-end Developer 💻 and Product Designer 🎨 !  </h2>
 </div>
 I enjoy the process of creating innovative websites and the challenge of discovering hidden gems and spending time to give solutions to erase the technical debt. Learning about how people perceive things and where they are most likely to search is very interesting. Love to meet new people !
-<h3 align="center"> ⚛️ Visit my <a href="https://www.lisafrontdev.com/" target="_blank" rel="noreferrer">portfolio</a> </h3>
+
 
 ## 🤝 Connect with me:
  <a  href="https://www.linkedin.com/in/lisa-lox-frontdev/"  target="_blank" rel="noreferrer">
